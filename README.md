@@ -1,1 +1,3 @@
 ### Chirper
+
+Udacity learning project.
